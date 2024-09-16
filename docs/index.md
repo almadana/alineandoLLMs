@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-## Iinscripción
+## Inscripción
 
 __IMPORTANTE__
 
