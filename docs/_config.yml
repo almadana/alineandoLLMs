@@ -17,8 +17,8 @@ title: Alineando modelos de lenguaje - Workshop Iberamia 2024
 description: >- # this means to ignore newlines until "baseurl:"
   Sitio del Workshop "Alineando modelos de lenguaje" de Iberamia 2024 - Montevideo, Uruguay. En esta web se encuentra disponible el formulario de inscripción, así como también materiales y presentaciones del evento. 
   Bruno Bianchi y Álvaro Cabana
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/alineandoLLMs" # the subpath of your site, e.g. /blog
+url: "https://almadana.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cabana_alvaro
 github_username:  almadana
 
