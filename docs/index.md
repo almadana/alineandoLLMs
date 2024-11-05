@@ -16,23 +16,23 @@ __IMPORTANTE__
 
 ## Cronograma
 
-* Lunes 11/11
+ Lunes 11/11
 
-* Salón 726 - Piso 7 - Facultad de Ingeniería
+ Salón 726 - Piso 7 - Facultad de Ingeniería
 
-* 9:00 - 10:30 hs. Introducción al sistema nervioso. Anatomía funcional del cerebro. Modelos de redes neuronales y correlatos neurales. _Teórico_. Álvaro Cabana.
+* __9:00 - 10:30 hs.__ Introducción al sistema nervioso. Anatomía funcional del cerebro. Modelos de redes neuronales y correlatos neurales. _Teórico_. Álvaro Cabana.
 
 _coffee break_
 
-* 11:00 - 12:30 hs. Fundamentos de la resonancia magnética funcional. _Teórico_. Bruno Bianchi.
+* __11:00 - 12:30 hs.__ Fundamentos de la resonancia magnética funcional. _Teórico_. Bruno Bianchi.
 
 _almuerzo_
 
-* 14:30 - 16:00 hs. Representational Similarity Analysis. _Teórico-práctico_. Buno Bianchi.
+* __14:30 - 16:00 hs.__ Representational Similarity Analysis. _Teórico-práctico_. Buno Bianchi.
 
 _coffe break_
 
-* 16:30 - 18:00 hs. Modelos de vóxel único. _Teórico-práctico_. Álvaro Cabana.
+* __16:30 - 18:00 hs.__ Modelos de vóxel único. _Teórico-práctico_. Álvaro Cabana.
 
 ### Recursos
 
