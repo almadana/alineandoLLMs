@@ -13,6 +13,11 @@ __IMPORTANTE__
 
 > Para participar del taller, es necesario [inscribirse aquí](https://docs.google.com/forms/d/e/1FAIpQLSd1WZn_3gMY4NPtaCgEQ0wUQ-Y7_YWIbLIQMe8TFWp68_xA_Q/viewform)!!
 
+## Código y datos
+
+* En la medida de lo posible, [clonar este repo](https://github.com/almadana/iberamia_brain_llms), e instalar dependencias antes del workshop.
+
+* Más recursos en el correr de estos días.
 
 ## Cronograma
 
@@ -32,7 +37,7 @@ _almuerzo_
 
 _coffe break_
 
-* __16:30 - 18:00 hs.__ Modelos de vóxel único. _Teórico-práctico_. Álvaro Cabana.
+* __16:30 - 18:00 hs.__ Modelos de vóxel único. _Teórico-práctico_. Álvaro Cabana. [Código y datos](https://github.com/almadana/iberamia_brain_llms)
 
 ### Recursos
 
